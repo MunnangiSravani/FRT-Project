@@ -1,5 +1,6 @@
 # FRT-project
-https://cdn2.hubspot.net/hubfs/439788/Blog/Featured%20Images/Best%20Hotel%20Website%20Designs.jpg
+![image](https://user-images.githubusercontent.com/88315524/175100899-bf43664f-0a19-40bf-b332-76e6a579f55b.png)
+
 # KL Hotels
 The website is aimed to display to users with their rooms and services of choices throughout their stay at the hotel. The chatbot helps with the food menu and ordering.
 # Azure Services Used:
